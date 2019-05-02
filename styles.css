@@ -1,0 +1,36 @@
+body {
+  font-family: 'Ubuntu Mono', monospace;
+  background-color: #ffffff;
+  color: #222222;
+  margin: 0;
+}
+
+.main-body-content {
+  max-width: 70%;
+  height: auto;
+  position: relative;
+  display: block;
+  margin: 20px auto;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.title {
+
+
+}
+
+.subtitle {
+
+
+}
+
+hr.half {
+
+
+}
+
+.medium-paragraph {
+
+  
+}
